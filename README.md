@@ -1,0 +1,1 @@
+This is a news website for final project
